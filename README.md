@@ -18,4 +18,8 @@ the probalitity of getting a job with no experience in a field is an example of 
 
 
 Explain the difference between descriptive and inferential statistics.
+The different between descriptive and inferential statistics is that descriptive use a number to represent data but inferial statics is information represent a summary about a population. 
+
 Explain the difference between frequentist and Bayesian statistics.
+The difference between frequency and bayesian statistics is that frequentist statistic use t test large sample is needed, have one true value withing the parameter. 
+compare to bayesian where big population are not needed, do not use t test and probability of a null hypothesis.
